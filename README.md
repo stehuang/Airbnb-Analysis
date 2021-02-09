@@ -7,3 +7,6 @@ Methods used:
 - Linear regression
 - Step-wise regression
 - Random Forest
+
+Map of prices:
+![LA_Listings_Prices](/images/price_map.png)
